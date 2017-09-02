@@ -1,0 +1,7 @@
+D:\Code Storege\snake\snake\bin\Debug\snake.exe.config
+D:\Code Storege\snake\snake\bin\Debug\snake.exe
+D:\Code Storege\snake\snake\bin\Debug\snake.pdb
+D:\Code Storege\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+D:\Code Storege\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+D:\Code Storege\snake\snake\obj\Debug\snake.exe
+D:\Code Storege\snake\snake\obj\Debug\snake.pdb
